@@ -4,7 +4,7 @@ I first began my journey into code whilst studying Computer Science at SCSVMV,Ta
 I believe coding is magic✨, The magic which enables us to create everything the world has never seen before.
 I build Webapps and UI for Websites. Actively looking for job opportunities.I love to work in high pressure startup environment.
  
-- 🌱 I’m currently learning Redis...
+- 🌱 I’m currently learning CSS
 - 👯 I’m looking to collaborate on Open Source
 - 💬 Ask me about React
 - 📫 How to reach me: shiva2nani.mangina@gmail.com
