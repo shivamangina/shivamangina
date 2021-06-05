@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**shivamangina/shivamangina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I first began my journey into code whilst studying Computer Science at SCSVMV,TamilNadu. During my time in the University I hated to code and refused to understand the magic of coding., During my final year, I started to learn a programming language called Javascript for my graduation project and fell in love ❤️ with the JavaScript. Thats how it all started.
+I believe coding is magic✨, The magic which enables us to create everything the world has never seen before.
+I build Webapps and UI for Websites. Actively looking for job opportunities.I love to work in high pressure startup environment.
+ 
+- 🌱 I’m currently learning Redis...
+- 👯 I’m looking to collaborate on Open Source
+- 💬 Ask me about React
+- 📫 How to reach me: shiva2nani.mangina@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; React | JavaScript | HTML | CSS  
+- 🌐 &nbsp; NodeJs | AWS EC2 | Heroku 
+- 🛢 &nbsp; MSSQL | MongoDB 
+- 🔧 &nbsp; Visual Studio code | Git
