@@ -15,4 +15,4 @@ I build Webapps and UI for Websites. Actively looking for job opportunities.I lo
 - 💻 &nbsp; React | JavaScript | HTML | CSS  
 - 🌐 &nbsp; NodeJs | AWS EC2 | Heroku | 
 - 🛢 &nbsp; MSSQL | MongoDB | Snowflake 
-- 🔧 &nbsp; Visual Studio code | Git | Docker | Kubernetes
+- 🔧 &nbsp;  Git | Docker | Kubernetes
