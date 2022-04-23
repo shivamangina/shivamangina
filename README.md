@@ -2,7 +2,7 @@
 
 
 I believe coding is magic✨, The magic which enables us to create everything the world has never seen before.
-I build Webapps and UI for Websites. Actively looking for job opportunities.I love to work in high pressure startup environment.
+I build Webapps and UI for Websites.I love to work in high pressure startup environment.
  
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on Open Source
