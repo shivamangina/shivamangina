@@ -2,11 +2,11 @@
 
 
 I believe coding is magic✨, The magic which enables us to create everything the world has never seen before.
-I build Webapps and UI for Websites.I love to work in high pressure startup environment.
+I build Webapps and UI for DApps.I love to work in high pressure startup environment.
  
 - 🌱 I’m currently learning Blockchain | Solidity
 - 👯 I’m looking to collaborate on Open Source
-- 💬 Ask me about React
+- 💬 Ask me about React and Solidity
 - 📫 How to reach me: shiva2nani.mangina@gmail.com
 
 
