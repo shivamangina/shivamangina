@@ -19,5 +19,9 @@ I build Webapps and UI for DApps.I love to work in a high-pressure startup envir
 - 🔧 &nbsp;  Git | Docker | Kubernetes
 - 🔧 &nbsp;  Python | Machine Learning | Mathematics
 
+
+- Photoshop | Premier Pro | After effects
+
+
 website: https://shivamangina.com/
 
