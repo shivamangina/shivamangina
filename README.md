@@ -2,7 +2,7 @@
 
 
 I believe coding is magic✨, The magic which enables us to create everything the world has never seen before.
-I build Webapps and UI for DApps.I love to work in a high-pressure startup environment.
+I'm building ML models, Web.I love to work in a high-pressure startup environment.
  
 - 🌱 I’m currently learning Machine learning
 - 👯 I’m looking to collaborate on Open Source
