@@ -11,17 +11,15 @@ I build Webapps and UI for DApps.I love to work in a high-pressure startup envir
 
 
 <h3>🛠 Tech Stack</h3>
-
+- ⚙️ &nbsp; Machine Learning | AI
 - ⚙️ &nbsp; Blockchain | Solidity
 - 💻 &nbsp; React | JavaScript | HTML | CSS | TailwindCSS
 - 🌐 &nbsp; NodeJs | AWS EC2 | Heroku | 
 - 🛢 &nbsp; MSSQL | MongoDB | Snowflake 
-- 🔧 &nbsp;  Git | Docker | Kubernetes
-- 🔧 &nbsp;  Python | Machine Learning | Mathematics
+- 🔧 &nbsp; Git | Docker | Kubernetes
+- 🔧 &nbsp; Python | Mathematics
+- 🔧 &nbsp; Photoshop | Premier Pro | After effects
 
 
-- Photoshop | Premier Pro | After effects
-
-
-website: https://shivamangina.com/
+website: https://shivamangina.in/
 
