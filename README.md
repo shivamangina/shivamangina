@@ -16,7 +16,7 @@ I'm building ML models, Web.I love to work in a high-pressure startup environmen
 - ⚙️ &nbsp; Machine Learning | AI
 - ⚙️ &nbsp; Blockchain | Solidity
 - 💻 &nbsp; React | JavaScript | HTML | CSS | TailwindCSS
-- 🌐 &nbsp; NodeJs | AWS EC2 | Heroku | 
+- 🌐 &nbsp; NodeJs | AWS 
 - 🛢 &nbsp; MSSQL | MongoDB | Snowflake 
 - 🔧 &nbsp; Git | Docker | Kubernetes
 - 🔧 &nbsp; Python | Mathematics
