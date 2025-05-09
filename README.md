@@ -13,11 +13,11 @@ I'm building ML models, Web.I love to work in a high-pressure startup environmen
 <h3>🛠 Tech Stack</h3>
 
 
-- ⚙️ &nbsp; Machine Learning | AI
+- ⚙️ &nbsp; Machine Learning | AI | Pytorch
 - ⚙️ &nbsp; Blockchain | Solidity
 - 💻 &nbsp; React | JavaScript | HTML | CSS | TailwindCSS
 - 🌐 &nbsp; NodeJs | AWS 
-- 🛢 &nbsp; MSSQL | MongoDB | Snowflake 
+- 🛢 &nbsp; MSSQL | MongoDB  
 - 🔧 &nbsp; Git | Docker | Kubernetes
 - 🔧 &nbsp; Python | Mathematics
 - 🔧 &nbsp; Photoshop | Premier Pro | After effects
